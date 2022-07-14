@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/capitalizer-react/static/css/main.091c6080.css",
+    "main.js": "/capitalizer-react/static/js/main.e076caed.js",
+    "index.html": "/capitalizer-react/index.html",
+    "main.091c6080.css.map": "/capitalizer-react/static/css/main.091c6080.css.map",
+    "main.e076caed.js.map": "/capitalizer-react/static/js/main.e076caed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.091c6080.css",
+    "static/js/main.e076caed.js"
+  ]
+}

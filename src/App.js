@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';w
+import Row from 'react-bootstrap/Row';
 import InputField from './components/InputField';
 
 
